@@ -48,7 +48,7 @@ then test the incoming operator against the new top of the stack
 
 def convert_Infix_to_Postfix(expression):
     postfix_expression = ""
-    operand = ['(', ')', '+', '*', '-', '/', '^']
+    operator = ['(', ')', '+', '*', '-', '/', '^']
     associative_rule = {'+-': 'LR', '-+': 'LR', '*/': 'LR', '/*': 'LR', '^^': 'RL', '++': 'LR', '--': 'LR', '**': 'LR',
                         '//': 'LR'}
     precedence_piority = {'(': 4, ')': 4, '^': 3, '*': 2, '/': 2, '+': 1, '-': 1}
@@ -58,7 +58,7 @@ def convert_Infix_to_Postfix(expression):
     length = len(expression)
     while i < length:
         char = expression[i]
-        if char in operand:
+        if char in operator:
             if s.top == None:
                 s.push(char)
                 i += 1
@@ -127,7 +127,7 @@ then test the incoming operator against the new top of the stack
 def convert_Infix_to_Prefix(expression):
     expression = expression[::-1]
     prefix_expression = ""
-    operand = ['(', ')', '+', '*', '-', '/', '^']
+    operator = ['(', ')', '+', '*', '-', '/', '^']
     associative_rule = {'+-': 'LR', '-+': 'LR', '*/': 'LR', '/*': 'LR', '^^': 'RL', '++': 'LR', '--': 'LR', '**': 'LR',
                         '//': 'LR'}
     precedence_piority = {'(': 4, ')': 4, '^': 3, '*': 2, '/': 2, '+': 1, '-': 1}
@@ -137,7 +137,7 @@ def convert_Infix_to_Prefix(expression):
     length = len(expression)
     while i < length:
         char = expression[i]
-        if char in operand:
+        if char in operator:
             if s.top == None:
                 s.push(char)
                 i += 1
