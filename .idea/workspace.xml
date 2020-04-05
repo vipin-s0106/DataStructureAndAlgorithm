@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a45f87-6bee-4db7-9290-fda800c6ac21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/PostfixAndPrefixEvaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/PostfixAndPrefixToInfix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/CircularQueueUsingArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/CircularQueueUsingLinkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/DEQUE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/InfixToPostfixToPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/InfixToPostfixToPrefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue1/StackUsingQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queue1/StackUsingQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/OptimizedStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/OptimizedStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/QueueUsingStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/QueueUsingStack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vipin-s0106 &lt;vipin.s0106@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZIwzStQfM6xTtykLHHaS47jQda" />
@@ -35,8 +44,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonPractice" />
   </component>
-  <component name="RunManager" selected="Python.PostfixAndPrefixToInfix">
-    <configuration name="InfixToPostfixToPrefix (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DEQUE">
+    <configuration name="CircularQueueUsingArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/InfixToPostfixToPrefix.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\DataStructureAlgorithms\Queue1\CircularQueueUsingArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InfixToPostfixToPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CircularQueueUsingLinkedlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\DataStructureAlgorithms\Stack\InfixToPostfixToPrefix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/CircularQueueUsingLinkedlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OptimizedStack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DEQUE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/OptimizedStack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/DEQUE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DEQUE" />
+        <item itemvalue="Python.CircularQueueUsingLinkedlist" />
+        <item itemvalue="Python.CircularQueueUsingArray" />
         <item itemvalue="Python.PostfixAndPrefixToInfix" />
         <item itemvalue="Python.PostfixAndPrefixEvaluation" />
-        <item itemvalue="Python.InfixToPostfixToPrefix (1)" />
-        <item itemvalue="Python.InfixToPostfixToPrefix" />
-        <item itemvalue="Python.OptimizedStack" />
       </list>
     </recent_temporary>
   </component>
@@ -162,49 +171,86 @@
       <option name="presentableId" value="Default" />
       <updated>1584540177635</updated>
     </task>
+    <task id="LOCAL-00001" summary="Stack Completed">
+      <created>1586000938740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586000938740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stack Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack Completed" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586000936962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586000936962" />
+    <state width="607" height="438" key="DebuggerActiveHint" timestamp="1586065239971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="607" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586065239971" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1585394966195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585394966195" />
-    <state width="1345" height="171" key="GridCell.Tab.0.bottom" timestamp="1586000850582">
+    <state width="1345" height="171" key="GridCell.Tab.0.bottom" timestamp="1586067145573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586000850582" />
-    <state width="1345" height="171" key="GridCell.Tab.0.center" timestamp="1586000850582">
+    <state width="1345" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586067145573" />
+    <state width="1345" height="171" key="GridCell.Tab.0.center" timestamp="1586067145573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586000850582" />
-    <state width="1345" height="171" key="GridCell.Tab.0.left" timestamp="1586000850582">
+    <state width="1345" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586067145573" />
+    <state width="1345" height="171" key="GridCell.Tab.0.left" timestamp="1586067145573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586000850582" />
-    <state width="1345" height="171" key="GridCell.Tab.0.right" timestamp="1586000850582">
+    <state width="1345" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586067145573" />
+    <state width="1345" height="171" key="GridCell.Tab.0.right" timestamp="1586067145573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586000850582" />
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586000035991">
+    <state width="1345" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586067145573" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586065288158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586000035991" />
-    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1586000035991">
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586065288158" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1586065288158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586000035991" />
-    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1586000035991">
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586065288158" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1586065288158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586000035991" />
-    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1586000035991">
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586065288158" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1586065288158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586000035991" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585997031635">
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586065288158" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586000941377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585997031635" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586000941377" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586063206079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586063206079" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585997424599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

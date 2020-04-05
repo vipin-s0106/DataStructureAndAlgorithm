@@ -34,6 +34,22 @@ class Stack:
                 temp = temp.next
             print("")
 
+
+'''
+Algorithm 
+Maintain the Enque operation costly
+and dequeue opearation O(1)
+
+1) Maintain two stack to perform the Queue operation
+2) during enque operation - 
+pop element from stack1 and push to stack2
+then push the new data to stack1
+then pop element from stack2 ad push to stack1
+so that the new data always be at last during poping from stack1
+3) during deque operation - 
+directly pop the element from stack1
+'''
+
 class Q:
 
      def __init__(self):

@@ -9,6 +9,16 @@ class Node:
         self.next = None
 
 
+'''
+Algrithm for getMin() Function -
+1) Maintain one other stack to store the min value
+2) during push - just check top element of other stack if current element is less than the element of top of other
+then push the current element to stack else push the same top element of stack on top again by creating the new node data
+3) during pop from main stack make sure that you pop from other stack also
+4) In getMin function direct return top element of other stack don't pop just return the temp.top.data of other stack
+'''
+
+
 class Stack:
     def __init__(self):
         self.top = None

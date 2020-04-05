@@ -34,6 +34,15 @@ class Q:
            return cur.data
 
 
+'''
+Algorithm - 
+1) Create two Queue Q1 and Q2
+2) During push - enque the new element to Q2 then deque all element of Q1 and enque to Q2 and just change the pounting like Q2 object point by Q1 refrence
+variable and Q1 object point by Q2 refrence variable
+3) During pop - deque from Q1 automatically whatever you inserted on top in terms of stack will pop out bcz we inserted element at last then just enque 
+all elements of queue so during  deque autmatically last inserted will come out first
+'''
+
 
 class Stack:
 
