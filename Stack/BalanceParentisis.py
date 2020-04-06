@@ -46,3 +46,6 @@ print(check_parenthisi("{([])}"))
 print(check_parenthisi("}{"))
 print(check_parenthisi("]({{"))
 print(check_parenthisi("{(})"))
+
+'''
+'''
