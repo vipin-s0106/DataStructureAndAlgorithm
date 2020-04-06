@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a45f87-6bee-4db7-9290-fda800c6ac21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/BinarySearchTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/CheckTwoBinaryTreeSame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/HeightDepthOfTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/SizeOfTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchingAlgorithm/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchingAlgorithm/LinearSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchingAlgorithm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgorithm/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgorithm/InsertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgorithm/MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgorithm/SelectionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgorithm/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/HeightDepthOfTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/HeightDepthOfTree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +45,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonPractice" />
   </component>
-  <component name="RunManager" selected="Python.HeightDepthOfTree">
-    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SelectionSort">
+    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchingAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinarySearchTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchingAlgorithm/BinarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CheckTwoBinaryTreeSame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/CheckTwoBinaryTreeSame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/BubbleSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HeightDepthOfTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\DataStructureAlgorithms\Tree\HeightDepthOfTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/InsertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SizeOfTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LinearSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchingAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/SizeOfTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchingAlgorithm/LinearSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/SelectionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HeightDepthOfTree" />
-        <item itemvalue="Python.SizeOfTree" />
-        <item itemvalue="Python.CheckTwoBinaryTreeSame" />
-        <item itemvalue="Python.BinarySearchTree" />
-        <item itemvalue="Python.Traversal" />
+        <item itemvalue="Python.SelectionSort" />
+        <item itemvalue="Python.InsertionSort" />
+        <item itemvalue="Python.BubbleSort" />
+        <item itemvalue="Python.BinarySearch" />
+        <item itemvalue="Python.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586068080368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tree Completed">
+      <created>1586151671286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586151671286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,13 +212,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stack Completed" />
     <MESSAGE value="Queue Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue Completed" />
+    <MESSAGE value="Tree Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree Completed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586068078867">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586151669552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586068078867" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586151669552" />
     <state width="607" height="438" key="DebuggerActiveHint" timestamp="1586065239971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -217,46 +228,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585394966195" />
-    <state width="1345" height="222" key="GridCell.Tab.0.bottom" timestamp="1586103758238">
+    <state width="1345" height="232" key="GridCell.Tab.0.bottom" timestamp="1586164493838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.0.center" timestamp="1586103758238">
+    <state width="1345" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586164493838" />
+    <state width="1345" height="232" key="GridCell.Tab.0.center" timestamp="1586164493838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.0.left" timestamp="1586103758238">
+    <state width="1345" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586164493838" />
+    <state width="1345" height="232" key="GridCell.Tab.0.left" timestamp="1586164493838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.0.right" timestamp="1586103758238">
+    <state width="1345" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586164493838" />
+    <state width="1345" height="232" key="GridCell.Tab.0.right" timestamp="1586164493838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586103758238">
+    <state width="1345" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586164493838" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586163724463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1586103758238">
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586163724463" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1586163724463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1586103758238">
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586163724463" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1586163724463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1586103758238">
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586163724463" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1586163724463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586103758238" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586068082671">
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586163724463" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586151673651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586068082671" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586151619207">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586151673651" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586156819529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586151619207" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586156819529" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585997424599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

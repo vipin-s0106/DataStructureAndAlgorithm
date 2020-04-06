@@ -23,7 +23,12 @@ class Tree:
         return 1 + max(self.getHeightTree(root.left),self.getHeightTree(root.right))
 
     def getDepthTree(self,root):
-        pass
+        if root == None:
+            return 0
+        if root == self.root:
+            return max(self.getHeightTree(root.left),self.getHeightTree(root.right))
+        else:
+            return 1 + max(self.getHeightTree(root.left),self.getHeightTree(root.right))
 
 
 t1 = Tree()
@@ -48,4 +53,4 @@ t1.root.right.right.left = Node(8)
    height = 4  - no of nodes present in the longest path
 '''
 print("Height of Tree - "+str(t1.getHeightTree(t1.root)))
-# print("Depth of Tree - "+str(t1.getDepthTree(t1.root)))
+print("Depth of Tree - "+str(t1.getDepthTree(t1.root)))
