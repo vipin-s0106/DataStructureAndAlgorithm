@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a45f87-6bee-4db7-9290-fda800c6ac21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Linkedlist/PrintReverseLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataStructureAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructureAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/BalanceParentisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/BalanceParentisis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedlist/SearchingElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/SearchingElement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +38,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonPractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Python.BalanceParentisis">
+  <component name="RunManager" selected="Python.PrintReverseLinkedList">
     <configuration name="BalanceParentisis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchingAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linkedlist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchingAlgorithm/BinarySearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linkedlist/Introduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintReverseLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linkedlist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/BubbleSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linkedlist/PrintReverseLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchingElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linkedlist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/InsertionSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linkedlist/SearchingElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PrintReverseLinkedList" />
+        <item itemvalue="Python.SearchingElement" />
+        <item itemvalue="Python.Introduction" />
         <item itemvalue="Python.BalanceParentisis" />
         <item itemvalue="Python.SelectionSort" />
-        <item itemvalue="Python.InsertionSort" />
-        <item itemvalue="Python.BubbleSort" />
-        <item itemvalue="Python.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +228,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Some Sorting Completed" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586184141093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586184141093" />
     <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586173248297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -232,26 +240,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="607" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586065239971" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1585394966195">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1586183803832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585394966195" />
-    <state width="1345" height="156" key="GridCell.Tab.0.bottom" timestamp="1586173179669">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586183803832" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586184130254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586173179669" />
-    <state width="1345" height="156" key="GridCell.Tab.0.center" timestamp="1586173179669">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586184130254" />
+    <state width="1344" height="105" key="GridCell.Tab.0.bottom" timestamp="1586335357861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586173179669" />
-    <state width="1345" height="156" key="GridCell.Tab.0.left" timestamp="1586173179669">
+    <state width="1344" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
+    <state width="1344" height="105" key="GridCell.Tab.0.center" timestamp="1586335357861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586173179669" />
-    <state width="1345" height="156" key="GridCell.Tab.0.right" timestamp="1586173179669">
+    <state width="1344" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
+    <state width="1344" height="105" key="GridCell.Tab.0.left" timestamp="1586335357861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586173179669" />
+    <state width="1344" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
+    <state width="1344" height="105" key="GridCell.Tab.0.right" timestamp="1586335357861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
     <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586166980024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -268,14 +280,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586166980024" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1586184116567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586184116567" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586166917313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586166917313" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586173217363">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586183908509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586173217363" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586183908509" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585997424599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -34,6 +34,19 @@ class Linkedlist:
             temp = temp.next
         return count
 
+    def getNodeValueFromTail(self,index_position):
+        length = self.linkedlist_length()
+        if index_position >= length:
+            return None
+        index_position = length - index_position -1
+        temp = self.head
+        i = 0
+        while index_position != i:
+            temp = temp.next
+            i += 1
+        return temp.data
+
+
 
 l = Linkedlist()
 l.add(1)
@@ -42,5 +55,5 @@ l.add(3)
 l.add(4)
 l.add(5)
 l.print_list()
-
+print("Value - ",l.getNodeValueFromTail(0))
 
