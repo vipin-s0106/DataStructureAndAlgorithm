@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a45f87-6bee-4db7-9290-fda800c6ac21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linkedlist/PrintReverseLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataStructureAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructureAlgorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linkedlist/SearchingElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/SearchingElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedlist/CheckLinkedlistPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/CheckLinkedlistPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkedlist/reverse_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linkedlist/reverse_linked_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZIwzStQfM6xTtykLHHaS47jQda" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,8 +40,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Python.PrintReverseLinkedList">
-    <configuration name="BalanceParentisis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.reverse_linked_list">
+    <configuration name="CheckLinkedlistPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linkedlist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/BalanceParentisis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linkedlist/CheckLinkedlistPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linkedlist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithm/SelectionSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linkedlist/reverse_linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverse_linked_list" />
+        <item itemvalue="Python.CheckLinkedlistPalindrome" />
         <item itemvalue="Python.PrintReverseLinkedList" />
         <item itemvalue="Python.SearchingElement" />
         <item itemvalue="Python.Introduction" />
-        <item itemvalue="Python.BalanceParentisis" />
-        <item itemvalue="Python.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586173224049</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some code added in Linkedlist">
+      <created>1586346448444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586346448444</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,17 +231,18 @@
     <MESSAGE value="Tree Completed" />
     <MESSAGE value="Searching Completed" />
     <MESSAGE value="Some Sorting Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some Sorting Completed" />
+    <MESSAGE value="Some code added in Linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some code added in Linkedlist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586184141093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586184141093" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586173248297">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1586346447168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586173248297" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586346447168" />
     <state width="607" height="438" key="DebuggerActiveHint" timestamp="1586065239971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,53 +255,72 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586184130254" />
-    <state width="1344" height="105" key="GridCell.Tab.0.bottom" timestamp="1586335357861">
+    <state width="1344" height="166" key="GridCell.Tab.0.bottom" timestamp="1586844130091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
-    <state width="1344" height="105" key="GridCell.Tab.0.center" timestamp="1586335357861">
+    <state width="1344" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586844130091" />
+    <state width="1344" height="166" key="GridCell.Tab.0.center" timestamp="1586844130091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
-    <state width="1344" height="105" key="GridCell.Tab.0.left" timestamp="1586335357861">
+    <state width="1344" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586844130091" />
+    <state width="1344" height="166" key="GridCell.Tab.0.left" timestamp="1586844130091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
-    <state width="1344" height="105" key="GridCell.Tab.0.right" timestamp="1586335357861">
+    <state width="1344" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586844130091" />
+    <state width="1344" height="166" key="GridCell.Tab.0.right" timestamp="1586844130091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586335357861" />
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1586166980024">
+    <state width="1344" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586844130091" />
+    <state width="1344" height="217" key="GridCell.Tab.1.bottom" timestamp="1586844103985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586166980024" />
-    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1586166980024">
+    <state width="1344" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586844103985" />
+    <state width="1344" height="217" key="GridCell.Tab.1.center" timestamp="1586844103985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586166980024" />
-    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1586166980024">
+    <state width="1344" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586844103985" />
+    <state width="1344" height="217" key="GridCell.Tab.1.left" timestamp="1586844103984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586166980024" />
-    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1586166980024">
+    <state width="1344" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586844103984" />
+    <state width="1344" height="217" key="GridCell.Tab.1.right" timestamp="1586844103985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586166980024" />
+    <state width="1344" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586844103985" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1586184116567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586184116567" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586166917313">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586346450960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586166917313" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586346450960" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586183908509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586183908509" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586843892378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586843892378" />
+    <state x="234" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586843554045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="234" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586843554045" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585997424599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585997424599" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Linkedlist/CheckLinkedlistPalindrome.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

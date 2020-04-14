@@ -45,17 +45,27 @@ class Linkedlist:
             prev = current
         self.head = current
 
+    def reverseLinkedList_recursion(self,prev,cur):
+        if cur == None:
+            return
+        self.reverseLinkedList_recursion(cur,cur.next)
+        if cur.next == None:
+            self.head = cur
+        cur.next = prev
+
 
 
 l = Linkedlist()
 l.add(1)
+l.add(2)
 l.add(3)
-l.add(3)
-l.add(1)
+l.add(4)
+l.add(6)
 l.print_list()
 l.reverse_linked_list()
 l.print_list()
-print(l.check_linkedlist_palindrome())
+l.reverseLinkedList_recursion(None,l.head)
+l.print_list()
 
 
 

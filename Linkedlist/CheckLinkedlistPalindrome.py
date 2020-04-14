@@ -67,16 +67,52 @@ class Linkedlist:
             temp = temp.next
         return True
 
+    def checkPalindrom_recursion(self,node):
+        temp = self.head
+        temp1 = node
+        if temp1 == None:
+            return
+        self.checkPalindrom_recursion(node.next)
+        if temp1.data == temp.data:
+            return True
+        else:
+            return False
+
+
+
+
+    '''
+    Checking Linked is palindrome or not using Yeild function
+    '''
+    def getElementFromLast(self,node):
+        if node == None:
+            return
+        self.getElementFromLast(node.next)
+        yield node.data
+
+    def checkLinkedListPalindrome(self,node):
+        temp = node
+        for next_data in self.getElementFromLast(self.head):
+            if temp == None:
+                break
+            if temp.data != next_data:
+                return False
+            temp = temp.next
+        return True
+
+
+
 
 l = Linkedlist()
 l.add(1)
 l.add(3)
-l.add(3)
+l.add(4)
 l.add(1)
 l.print_list()
 l.reverse_linked_list()
 l.print_list()
 print(l.check_linkedlist_palindrome())
+print(l.checkLinkedListPalindrome(l.head))
 
 
 
