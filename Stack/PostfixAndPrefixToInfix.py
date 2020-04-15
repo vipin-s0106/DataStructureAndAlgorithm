@@ -28,9 +28,9 @@ class Stack:
 Algorithm - Postfix to Infix
 1)Iterate from starting 
 2)If opearend find push to stack
-3)If operator find then pop two elements from stack and place soperator in beteween operand
+3)If operator find then pop two elements from stack and place operator in beteween operand
    operand1 = s.pop
-   operand = s.pop
+   operand2 = s.pop
    result = operand2 + operator + operand1
 4) push the resulted string to stack
 5)return the last string which push back to stack
@@ -57,7 +57,7 @@ print(convert_postfix_to_infix("ABC/D*-E+"))
 Algorithm - Prefix to Infix
 1)Iterate from Last
 2)If opearend find push to stack
-3)If operator find then pop two elements from stack and place soperator in beteween operand
+3)If operator find then pop two elements from stack and place operator in beteween operand
    operand1 = s.pop
    operand2 = s.pop
    result = operand1 + operator + operand2

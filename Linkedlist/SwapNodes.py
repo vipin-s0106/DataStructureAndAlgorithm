@@ -27,7 +27,7 @@ class Linkedlist:
         print("")
 
     '''
-    1 -> 2 -> 3 -> 4
+    1 -> 2 -> 3 -> 4 -> 5
     '''
     def swap_nodes(self,node_no1,node_no2):
         temp = self.head
@@ -58,6 +58,7 @@ class Linkedlist:
         else:
             print("Swapping Not Possible less element in list")
             return
+
 
 
 

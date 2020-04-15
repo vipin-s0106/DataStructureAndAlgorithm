@@ -1,4 +1,4 @@
-#Complexity O(n)
+#Complexity O(n^2s)
 
 def selection_sort(arr):
     length = len(arr)

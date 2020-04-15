@@ -28,7 +28,8 @@ class Stack:
         new_node = Node(data)
         if self.top == None:
             self.top = new_node
-            self.aux_top = new_node
+            new_node1 = Node(data)
+            self.aux_top = new_node1
         else:
             new_node.next = self.top
             self.top = new_node

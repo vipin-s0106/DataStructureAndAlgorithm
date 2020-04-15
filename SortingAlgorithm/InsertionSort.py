@@ -1,4 +1,4 @@
-#O(n) complexity
+#O(n^2) complexity
 def insertion_sort(arr):
     length = len(arr)
     for i in range(1,length):

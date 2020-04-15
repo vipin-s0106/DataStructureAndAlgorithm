@@ -106,7 +106,7 @@ Infix to Prefix Conversion
 *****************
 0)First Reverse the expression
 1)Print Operands as they arrive
-2) If stack is empty or contains a left pranthesis ')' on top , push the incoming operator
+2) If stack is empty or contains a right pranthesis ')' on top , push the incoming operator
 onto the stack
 3)if incoming symbol is ')' push it onto the stack
 4)if incoming symbol is '(' pop the stack & print the operator until right parenthsis ')' is found

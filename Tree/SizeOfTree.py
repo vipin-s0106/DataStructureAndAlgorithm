@@ -17,7 +17,7 @@ class Tree:
         self.inorder_traversal(root.right)
 
     def getTreeSize(self,root):
-        if root == None and root == None:
+        if root == None:
             return 0
         return 1 + self.getTreeSize(root.left) + self.getTreeSize(root.right)
 

@@ -19,8 +19,9 @@ class Q:
        if self.end == None:
            print("Queue is Empty")
        elif self.end.next == None:
-           return  self.end.data
-           self.end = None
+           data = self.end.data
+           self.end =self.end.next
+           return  data
        else:
            prev = self.end
            cur = self.end.next

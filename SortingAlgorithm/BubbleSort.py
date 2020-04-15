@@ -1,4 +1,4 @@
-#O(n) complexity
+#O(n^2) complexity
 def bubble_sort(arr,length):
     for i in range(0,length-1):
         change_flag = False
