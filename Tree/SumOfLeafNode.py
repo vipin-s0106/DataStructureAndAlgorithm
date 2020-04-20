@@ -10,7 +10,9 @@ class BST:
 		self.root = None
 
 	def sumOfLeafNode(self,node):
-		pass
+		if node.left ==None  and node.right == None:
+			return node.data
+		return self.sumOfLeafNode(node.left) + self.sumOfLeafNode(node.right)
 
 '''
            20 
@@ -28,3 +30,5 @@ t1.root.left.left = Node(5)
 t1.root.left.right = Node(15)
 t1.root.right.left = Node(25)
 t1.root.right.right = Node(35)
+
+print(t1.sumOfLeafNode(t1.root))

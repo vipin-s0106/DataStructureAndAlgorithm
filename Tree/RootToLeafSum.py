@@ -28,7 +28,7 @@ t1.root.right.left = Node(6)
 t1.root.right.right = Node(7)
 t1.root.right.right.left = Node(8)
 '''
-just checking the given sum is available or not in the given trre from root to leaf
+just checking the given sum is available or not in the given tree from root to leaf
            1 
          /   \ 
         2      3 
