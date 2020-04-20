@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a45f87-6bee-4db7-9290-fda800c6ac21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linkedlist/SwapPairOfNodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/SortStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/LevelOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/CountLeafNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/PrintLeafNode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/RootToLeafSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/RootToLeafSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/SumOfLeafNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/SumOfLeafNode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,13 +36,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.LevelOrderTraversal">
-    <configuration name="IsBST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CountLeafNode">
+    <configuration name="CountLeafNode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/IsBST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/CountLeafNode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,6 +85,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PrintLeafNode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/PrintLeafNode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SortStack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,27 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/SortStack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SumOfLeafNode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructureAlgorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/SumOfLeafNode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CountLeafNode" />
+        <item itemvalue="Python.PrintLeafNode" />
         <item itemvalue="Python.LevelOrderTraversal" />
         <item itemvalue="Python.SwapPairOfNodes" />
         <item itemvalue="Python.SortStack" />
-        <item itemvalue="Python.SumOfLeafNode" />
-        <item itemvalue="Python.IsBST" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587379506476</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="code added in Tree, Linkedlist, Stack">
+      <created>1587384906371</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587384906371</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,17 +263,18 @@
     <MESSAGE value="Some Sorting Completed" />
     <MESSAGE value="Some code added in Linkedlist" />
     <MESSAGE value="Some code added in Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some code added in Tree" />
+    <MESSAGE value="code added in Tree, Linkedlist, Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="code added in Tree, Linkedlist, Stack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586184141093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586184141093" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1587379503715">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1587384905170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587379503715" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587384905170" />
     <state width="607" height="438" key="DebuggerActiveHint" timestamp="1586065239971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -280,22 +287,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586184130254" />
-    <state width="1344" height="180" key="GridCell.Tab.0.bottom" timestamp="1587384852503">
+    <state width="1344" height="180" key="GridCell.Tab.0.bottom" timestamp="1587392968039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587384852503" />
-    <state width="1344" height="180" key="GridCell.Tab.0.center" timestamp="1587384852502">
+    <state width="1344" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587392968039" />
+    <state width="1344" height="180" key="GridCell.Tab.0.center" timestamp="1587392968039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587384852502" />
-    <state width="1344" height="180" key="GridCell.Tab.0.left" timestamp="1587384852502">
+    <state width="1344" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587392968039" />
+    <state width="1344" height="180" key="GridCell.Tab.0.left" timestamp="1587392968039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587384852502" />
-    <state width="1344" height="180" key="GridCell.Tab.0.right" timestamp="1587384852503">
+    <state width="1344" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587392968039" />
+    <state width="1344" height="180" key="GridCell.Tab.0.right" timestamp="1587392968039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587384852503" />
+    <state width="1344" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587392968039" />
     <state width="1344" height="227" key="GridCell.Tab.1.bottom" timestamp="1587383442905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -316,10 +323,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586846098089" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587379509026">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587384908863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587379509026" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587384908863" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586183908509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
