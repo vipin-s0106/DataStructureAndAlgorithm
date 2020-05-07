@@ -37,7 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Famesta-Django-Angular" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.RootToLeafSum">
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587393042115</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="code added in Tree, Linkedlist, Stack">
+      <created>1587453978623</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587453978623</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,10 +283,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="235" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586184141093" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1587393040774">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1587453976166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587393040774" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587453976166" />
     <state width="607" height="438" key="DebuggerActiveHint" timestamp="1586065239971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -288,26 +295,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586183803832" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586184130254">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587705701309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586184130254" />
-    <state width="1344" height="180" key="GridCell.Tab.0.bottom" timestamp="1587443328250">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587705701309" />
+    <state width="1344" height="180" key="GridCell.Tab.0.bottom" timestamp="1587472464006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587443328250" />
-    <state width="1344" height="180" key="GridCell.Tab.0.center" timestamp="1587443328249">
+    <state width="1344" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587472464006" />
+    <state width="1344" height="180" key="GridCell.Tab.0.center" timestamp="1587472464006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587443328249" />
-    <state width="1344" height="180" key="GridCell.Tab.0.left" timestamp="1587443328249">
+    <state width="1344" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587472464006" />
+    <state width="1344" height="180" key="GridCell.Tab.0.left" timestamp="1587472464006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587443328249" />
-    <state width="1344" height="180" key="GridCell.Tab.0.right" timestamp="1587443328249">
+    <state width="1344" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587472464006" />
+    <state width="1344" height="180" key="GridCell.Tab.0.right" timestamp="1587472464006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587443328249" />
+    <state width="1344" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587472464006" />
     <state width="1344" height="227" key="GridCell.Tab.1.bottom" timestamp="1587383442905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -328,10 +335,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586846098089" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587393044065">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587453980940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587393044065" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587453980940" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586183908509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
